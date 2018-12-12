@@ -1,2 +1,1 @@
-# always change the version number, so now recognizes the difference
-FROM jstahovic/ang6entredwebapp_local-weather-app:1.0.0
+FROM duluca/localcast-weather:6.0.1
